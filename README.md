@@ -34,3 +34,7 @@ gestures, and a seamless shopping experience.
 Conclusion 
 This design provides an immersive yet minimal experience, balancing realism with simplicity, 
 ideal for mobile AR/VR shopping applications.
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7e009526-7b88-4cb7-a041-b4f7fd8b45d5)
